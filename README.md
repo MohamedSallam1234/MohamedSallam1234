@@ -159,7 +159,7 @@ I am a results-driven **Full Stack Developer** specializing in building robust, 
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mohamed_ibrahim_cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Download%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
+    <img src="https://github.com/MohamedSallam1234/MohamedSallam1234/blob/main/mohamed_sallam_cv.pdf" alt="CV">
   </a>
   
   <!-- <a href="https://yourportfolio.com" target="_blank">
