@@ -1,10 +1,22 @@
-# 👋 Hi, I'm Mohamed Ibrahim Sallam
+# Mohamed Ibrahim Sallam
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Angular+Specialist;Web+Development+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-333333?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-Angular%20Specialist-DD0031?style=flat&logo=angular">
   <img src="https://img.shields.io/badge/-Web%20Development-4285F4?style=flat&logo=react">
+  <img src="https://komarev.com/ghpvc/?username=MohamedSallam1234&color=blue&style=flat" alt="Profile views">
 </div>
+
+## 📋 Table of Contents
+- [About Me](#-about-me)
+- [Skills & Technologies](#️-skills--technologies)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Connect With Me](#-connect-with-me)
 
 ## 💫 About Me
 
@@ -24,6 +36,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -33,29 +46,61 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ## 🚀 Featured Projects
 
-### 🚇 Cairo Metro Application ([cairometro](https://github.com/MohamedSallam1234/cairometro))
-A comprehensive metro system application for Cairo's public transport.
-- Interactive route planning and scheduling
-- Real-time updates and notifications
-- User-friendly interface for seamless navigation
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚇 Cairo Metro Application</h3>
+      <p align="center">
+        <a href="https://github.com/MohamedSallam1234/cairometro">
+          <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6">
+        </a>
+      </p>
+      <p>A comprehensive metro system application for Cairo's public transport with interactive route planning and real-time updates.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Learning Management System</h3>
+      <p align="center">
+        <a href="https://github.com/MohamedSallam1234/LMS">
+          <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031">
+        </a>
+      </p>
+      <p>A complete learning management system for educational institutions with course management and student tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🖼️ Imagify</h3>
+      <p align="center">
+        <a href="https://github.com/MohamedSallam1234/Imagify">
+          <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+        </a>
+      </p>
+      <p>A powerful image manipulation tool with filtering features, intuitive UI, and optimized performance.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏞️ Natours</h3>
+      <p align="center">
+        <a href="https://github.com/MohamedSallam1234/Natours">
+          <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
+        </a>
+      </p>
+      <p>A beautiful responsive travel booking platform with tour management, user profiles, and interactive maps.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
-### 📚 Learning Management System ([LMS](https://github.com/MohamedSallam1234/LMS))
-A complete learning management system for educational institutions.
-- Course management and content delivery
-- Student progress tracking and assessment
-- Interactive learning materials and resources
+## 📊 GitHub Stats
 
-### 🖼️ Image Processing App ([Imagify](https://github.com/MohamedSallam1234/Imagify))
-A tool for image manipulation and processing.
-- Image filtering and transformation features
-- Intuitive user interface
-- Optimized for performance
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedSallam1234&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSallam1234&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</div>
 
-### 🏞️ Travel Website ([Natours](https://github.com/MohamedSallam1234/Natours))
-A beautiful responsive travel booking platform.
-- Dynamic tour management and bookings
-- User authentication and profiles
-- Interactive maps and tour details
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=tokyonight" alt="GitHub Streak">
+</div>
 
 ## 🌐 Connect With Me
 
@@ -71,15 +116,8 @@ A beautiful responsive travel booking platform.
   </a>
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSallam1234&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=dark" alt="GitHub Streak">
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedSallam1234&color=blue" alt="Profile Views">
+  <h3>Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 </div>
