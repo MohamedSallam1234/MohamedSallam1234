@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in modern web technologies. Currently pursuing my final year of Computer Science with an expected graduation date in June 2025. I excel at building responsive, user-friendly applications with clean, maintainable code.
+I'm a passionate **Full Stack Developer** with expertise in modern web technologies. 
 
 - 💼 Working on web applications and software solutions
 - 🌱 Currently expanding my knowledge in cloud technologies and DevOps
