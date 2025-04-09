@@ -102,11 +102,9 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=tokyonight" alt="GitHub Streak">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedSallam1234/MohamedSallam1234/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedSallam1234/MohamedSallam1234/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedSallam1234/MohamedSallam1234/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSallam1234&theme=tokyo-night" alt="GitHub Activity Graph">
+</div>
 
 ## 🌐 Connect With Me
 
@@ -120,6 +118,10 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-sallam/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
 
 ---
