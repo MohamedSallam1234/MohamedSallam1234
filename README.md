@@ -1,7 +1,7 @@
 # Mohamed Ibrahim Sallam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Angular+Specialist;Web+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Angular+Specialist;Web+Development+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,120 +12,175 @@
 </div>
 
 ## 📋 Table of Contents
+
 - [About Me](#-about-me)
-- [Skills & Technologies](#️-skills--technologies)
+- [Core Competencies](#-core-competencies)
+- [Technical Skills](#️-technical-skills)
+- [Professional Experience](#-professional-experience)
 - [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Connect With Me](#-connect-with-me)
+- [GitHub Analytics](#-github-analytics)
+- [Professional Network](#-professional-network)
+- [Contact](#-contact)
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in modern web technologies. 
+I am a results-driven **Full Stack Developer** specializing in building robust, user-centric web applications with a focus on performance and scalability.
 
-- 💼 Working on web applications and software solutions
-- 🌱 Currently expanding my knowledge in cloud technologies and DevOps
-- 🔍 Interested in Angular, React, Node.js, and scalable architectures
-- 🌎 Based in Egypt, available for remote collaborations
+- 💼 Experienced in developing enterprise-grade web applications and software solutions
+- 🌱 Continuously expanding my expertise in cloud architecture and DevOps practices
+- 🔍 Technical focus areas include Angular, React, Node.js, and distributed systems
+- 🌎 Based in Egypt, available for remote contracts and strategic collaborations
 
-## 🛠️ Skills & Technologies
+## 📌 Core Competencies
+
+- **Frontend Development**: Creating intuitive, responsive user interfaces
+- **Backend Architecture**: Designing scalable, efficient server-side solutions
+- **API Development**: Building RESTful and GraphQL APIs
+- **Database Design**: Implementing optimized database structures
+- **Performance Optimization**: Enhancing application speed and responsiveness
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+## 💼 Professional Experience
+
+<details open>
+  <summary><strong>View Professional Experience</strong></summary>
+  <br>
+  
+  **Software Engineer** | Money Fellows (Fintech)  
+  *2025 - Present*
+  - Develop scalable user interfaces using Angular and Ionic framework
+  - Implement complex functionality with Reactive Forms, RxJS, and TypeScript
+  - Adhere to agile methodologies and user stories for iterative development
+  - Manage CI/CD pipelines with GitHub Actions for automated deployments
+  - Collaborate with cross-functional teams to deliver high-quality fintech solutions
+  
+</details>
+
 ## 🚀 Featured Projects
 
-<div align="center">
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🚇 Cairo Metro Application</h3>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/MohamedSallam1234/cairometro">
-          <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6">
+          <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+          <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000">
+          <img src="https://img.shields.io/badge/Stack-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=E10098">
+          <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248">
         </a>
-      </p>
-      <p>A comprehensive metro system application for Cairo's public transport with interactive route planning and real-time updates.</p>
+      </div>
+      <p>An enterprise-grade public transport solution featuring interactive route planning, real-time updates, and optimized user experience for Cairo's metro passengers.</p>
+      <p><strong>Key Technologies:</strong> TypeScript, Next.js, Node.js, MongoDB,GraphQl</p>
     </td>
     <td width="50%">
       <h3 align="center">📚 Learning Management System</h3>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/MohamedSallam1234/lms-project">
-          <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031">
+          <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+          <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
+          <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4">
         </a>
-      </p>
-      <p>A complete learning management system for educational institutions with course management and student tracking.</p>
+      </div>
+      <p>A comprehensive education platform featuring advanced course management, student analytics, and interactive learning tools for educational institutions.</p>
+      <p><strong>Key Technologies:</strong> Angular, TypeScript, Express.js, MongoDB</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🖼️ Imagify</h3>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/MohamedSallam1234/Imagify">
           <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+          <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933">
+          <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
+          <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4">
         </a>
-      </p>
-      <p>A powerful image manipulation tool with filtering features, intuitive UI, and optimized performance.</p>
+      </div>
+      <p>A high-performance image processing application with advanced filtering capabilities, intuitive UI, and optimized rendering for professional image manipulation.</p>
+      <p><strong>Key Technologies:</strong> React, Redux, JavaScript, CSS3</p>
     </td>
     <td width="50%">
       <h3 align="center">🏞️ Natours</h3>
-      <p align="center">
+      <div align="center">
+       <img src="https://img.shields.io/badge/Template-Pug-informational?style=flat&logo=pug&logoColor=white&color=A86454">
         <a href="https://github.com/MohamedSallam1234/Natours">
           <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
+          <img src="https://img.shields.io/badge/Stack-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933">
         </a>
-      </p>
-      <p>A beautiful responsive travel booking platform with tour management, user profiles, and interactive maps.</p>
+      </div>
+      <p>A feature-rich travel booking platform with advanced tour management, authentication, payment processing, and interactive mapping functionality.</p>
+      <p><strong>Key Technologies:</strong> JavaScript, Node.js, Express, MongoDB</p>
     </td>
   </tr>
 </table>
-</div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedSallam1234&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSallam1234&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=tokyonight" alt="GitHub Streak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedSallam1234&show_icons=true&theme=react&count_private=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSallam1234&layout=compact&theme=react" alt="Most Used Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSallam1234&theme=tokyo-night" alt="GitHub Activity Graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=react" alt="GitHub Streak">
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Professional Network
 
 <div align="center">
   <a href="https://github.com/MohamedSallam1234" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:mohamedsallam@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ibrahim-sallam/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-sallam-775b901a1/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mohamed_ibrahim_cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Download%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV">
+  </a>
+  
+  <!-- <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a> -->
+</div>
+
+## 📬 Contact
+
+<div align="center">
+  <a href="mailto:mohamed.ibrahim.sallam100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2c3e50&height=120&section=footer"/>
 </div>
 
 ---
 
 <div align="center">
-  <h3>Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+  <p>© 2025 Mohamed Ibrahim Sallam. All Rights Reserved.</p>
 </div>
