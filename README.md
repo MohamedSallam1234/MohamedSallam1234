@@ -102,6 +102,10 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=tokyonight" alt="GitHub Streak">
 </div>
 
+<div align="center">
+  <img src="https://github.com/MohamedSallam1234/MohamedSallam1234/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
