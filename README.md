@@ -33,17 +33,23 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ## 🚀 Featured Projects
 
+### 🚇 Cairo Metro Application ([cairometro](https://github.com/MohamedSallam1234/cairometro))
+A comprehensive metro system application for Cairo's public transport.
+- Interactive route planning and scheduling
+- Real-time updates and notifications
+- User-friendly interface for seamless navigation
+
+### 📚 Learning Management System ([LMS](https://github.com/MohamedSallam1234/LMS))
+A complete learning management system for educational institutions.
+- Course management and content delivery
+- Student progress tracking and assessment
+- Interactive learning materials and resources
+
 ### 🎯 Help Desk Application ([HELP-DESK-APP](https://github.com/MohamedSallam1234/HELP-DESK-APP))
 An efficient IT support ticket management system.
 - Built with modern web technologies
 - Streamlines ticket management and resolution
 - User-friendly interface for both staff and users
-
-### 💬 Real-time Chat Application ([real-chat-app](https://github.com/MohamedSallam1234/real-chat-app))
-A responsive chat application with real-time messaging.
-- Real-time communication features
-- User authentication and message persistence
-- Responsive design for all devices
 
 ### 🖼️ Image Processing App ([Imagify](https://github.com/MohamedSallam1234/Imagify))
 A tool for image manipulation and processing.
@@ -51,11 +57,17 @@ A tool for image manipulation and processing.
 - Intuitive user interface
 - Optimized for performance
 
-### 📊 Full Stack Integration ([FrontAndBack](https://github.com/MohamedSallam1234/FrontAndBack))
-A project demonstrating seamless frontend and backend integration.
-- RESTful API implementation
-- Data persistence and security
-- Modern UI/UX design
+### 🏞️ Travel Website ([Natours](https://github.com/MohamedSallam1234/Natours))
+A beautiful responsive travel booking platform.
+- Dynamic tour management and bookings
+- User authentication and profiles
+- Interactive maps and tour details
+
+### 💬 Real-time Chat Application ([real-chat-app](https://github.com/MohamedSallam1234/real-chat-app))
+A responsive chat application with real-time messaging.
+- Real-time communication features
+- User authentication and message persistence
+- Responsive design for all devices
 
 ## 🌐 Connect With Me
 
