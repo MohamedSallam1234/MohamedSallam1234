@@ -62,7 +62,8 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
       <h3 align="center">📚 Learning Management System</h3>
       <p align="center">
         <a href="https://github.com/MohamedSallam1234/lms-project">
-          <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031">
+        <img src="https://img.shields.io/badge/-Web%20Development-4285F4?style=flat&logo=react">
+        
         </a>
       </p>
       <p>A complete learning management system for educational institutions with course management and student tracking.</p>
