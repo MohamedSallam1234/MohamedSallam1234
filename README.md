@@ -30,7 +30,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -41,7 +41,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
+
 </div>
 
 ## 🚀 Featured Projects
@@ -62,8 +62,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
       <h3 align="center">📚 Learning Management System</h3>
       <p align="center">
         <a href="https://github.com/MohamedSallam1234/lms-project">
-        <img src="https://img.shields.io/badge/-Web%20Development-4285F4?style=flat&logo=react">
-        
+          <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031">
         </a>
       </p>
       <p>A complete learning management system for educational institutions with course management and student tracking.</p>
