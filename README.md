@@ -69,13 +69,14 @@ I am a results-driven **Full Stack Developer** specializing in building robust, 
   <summary><strong>View Professional Experience</strong></summary>
   <br>
   
-  **Software Engineer** | Money Fellows (Fintech)  
-  *2025 - Present*
-  - Develop scalable user interfaces using Angular and Ionic framework
-  - Implement complex functionality with Reactive Forms, RxJS, and TypeScript
-  - Adhere to agile methodologies and user stories for iterative development
-  - Manage CI/CD pipelines with GitHub Actions for automated deployments
-  - Collaborate with cross-functional teams to deliver high-quality fintech solutions
+  **Front-End Engineer Intern** | Money Fellows (Fintech)  
+  *Feb 2023 - Present*
+  
+  - **Card Squad Contributor**: Collaborate with senior engineers on card-related features for the Money Fellows app, supporting design, implementation, and optimization efforts
+  - **Agile Participation**: Take part in sprint planning and execution, refining user stories and delivering assigned tasks on schedule
+  - **UI Development**: Build responsive interfaces with Angular & Ionic using Reactive Forms, RxJS, and TypeScript; collaborate with UI/UX teams via Figma
+  - **Code Review and Standards**: Follow established coding guidelines, prepare pull requests, and participate in code reviews to improve quality
+  - **Development Support**: Assist in the software lifecycle, including requirement gathering, automated testing, and CI/CD deployment with GitHub Actions
   
 </details>
 
