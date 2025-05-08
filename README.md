@@ -134,15 +134,19 @@ I am a results-driven **Full Stack Developer** specializing in building robust, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedSallam1234&show_icons=true&theme=react&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSallam1234&layout=compact&theme=react" alt="Most Used Languages">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedSallam1234&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedSallam1234&layout=compact&theme=react&hide_border=true" alt="Most Used Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=react" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=react&hide_border=true" alt="GitHub Streak">
 </div>
 
-## 🌐 Professional Network
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedSallam1234&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://github.com/MohamedSallam1234" target="_blank">
@@ -152,12 +156,23 @@ I am a results-driven **Full Stack Developer** specializing in building robust, 
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/MohamedSallam1234/MohamedSallam1234/blob/main/mohamed_sallam_cv(1).pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV">
+    <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume">
   </a>
-  
-  <!-- <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a> -->
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://dev.to/YourDevToHandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="https://medium.com/@YourMediumHandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://stackoverflow.com/users/YourUserID" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </div>
 
 ## 📬 Contact
