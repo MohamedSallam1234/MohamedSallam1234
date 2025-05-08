@@ -138,18 +138,10 @@ I am a results-driven **Full Stack Developer** specializing in building robust, 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedSallam1234&layout=compact&theme=react&hide_border=true" alt="Most Used Languages">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSallam1234&theme=react&hide_border=true" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedSallam1234&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/MohamedSallam1234" target="_blank">
+  <a href="https://github.com/MohamedSallam1234/MohamedSallam1234" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/mohamed-sallam-775b901a1/" target="_blank">
