@@ -85,53 +85,45 @@ I am a results-driven **Full Stack Developer** specializing in building robust, 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚇 Cairo Metro Application</h3>
+      <h3 align="center"><a href="https://github.com/MohamedSallam1234/cairometro">🚇 Cairo Metro Application</a></h3>
       <div align="center">
-        <a href="https://github.com/MohamedSallam1234/cairometro">
-          <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
-          <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000">
-          <img src="https://img.shields.io/badge/Stack-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=E10098">
-          <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248">
-        </a>
+        <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+        <img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000">
+        <img src="https://img.shields.io/badge/Stack-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=E10098">
+        <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248">
       </div>
       <p>An enterprise-grade public transport solution featuring interactive route planning, real-time updates, and optimized user experience for Cairo's metro passengers.</p>
-      <p><strong>Key Technologies:</strong> TypeScript, Next.js, Node.js, MongoDB,GraphQl</p>
+      <p><strong>Key Technologies:</strong> TypeScript, Next.js, Node.js, MongoDB, GraphQL</p>
     </td>
     <td width="50%">
-      <h3 align="center">📚 Learning Management System</h3>
+      <h3 align="center"><a href="https://github.com/MohamedSallam1234/lms-project">📚 Learning Management System</a></h3>
       <div align="center">
-        <a href="https://github.com/MohamedSallam1234/lms-project">
-          <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
-          <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
-          <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4">
-        </a>
+        <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+        <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
+        <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4">
       </div>
       <p>A comprehensive education platform featuring advanced course management, student analytics, and interactive learning tools for educational institutions.</p>
-      <p><strong>Key Technologies:</strong> Angular, TypeScript, Express.js, MongoDB</p>
+      <p><strong>Key Technologies:</strong> React, Zustand ,TypeScript, Express.js, MongoDB</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🖼️ Imagify</h3>
+      <h3 align="center"><a href="https://github.com/MohamedSallam1234/Imagify">🖼️ Imagify</a></h3>
       <div align="center">
-        <a href="https://github.com/MohamedSallam1234/Imagify">
-          <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
-          <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933">
-          <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
-          <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4">
-        </a>
+        <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB">
+        <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933">
+        <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC">
+        <img src="https://img.shields.io/badge/CSS-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4">
       </div>
       <p>A high-performance image processing application with advanced filtering capabilities, intuitive UI, and optimized rendering for professional image manipulation.</p>
       <p><strong>Key Technologies:</strong> React, Redux, JavaScript, CSS3</p>
     </td>
     <td width="50%">
-      <h3 align="center">🏞️ Natours</h3>
+      <h3 align="center"><a href="https://github.com/MohamedSallam1234/Natours">🏞️ Natours</a></h3>
       <div align="center">
-       <img src="https://img.shields.io/badge/Template-Pug-informational?style=flat&logo=pug&logoColor=white&color=A86454">
-        <a href="https://github.com/MohamedSallam1234/Natours">
-          <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
-          <img src="https://img.shields.io/badge/Stack-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933">
-        </a>
+        <img src="https://img.shields.io/badge/Template-Pug-informational?style=flat&logo=pug&logoColor=white&color=A86454">
+        <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
+        <img src="https://img.shields.io/badge/Stack-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933">
       </div>
       <p>A feature-rich travel booking platform with advanced tour management, authentication, payment processing, and interactive mapping functionality.</p>
       <p><strong>Key Technologies:</strong> JavaScript, Node.js, Express, MongoDB</p>
